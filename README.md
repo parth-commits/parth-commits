@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Web Development and Mobile App Development
 - 🌱 I’m currently learning C, JavaScript and MySQL
 - 👯 I’m looking to collaborate on any cool projects on your mind
-- 📫 How to reach me: https://parth-commits.github.io/
+- 📫 How to reach me: https://parth-commits.github.io/ or by email: parthpatel1087@gmail.com
 -->
 
 
