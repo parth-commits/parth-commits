@@ -1,6 +1,11 @@
 ### Hi there 👋, Parth here!
 
-You are visitor number ![visitors](https://visitor-badge.glitch.me/badge?page_id=parth-commits.visitor-badge) ! Nice to meet you!
+<!--You are visitor number ![visitors](https://visitor-badge.glitch.me/badge?page_id=parth-commits.visitor-badge) ! -->Nice to meet you!
+
+
+&nbsp;&nbsp;&nbsp;
+
+
 
 ![parth-commits's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parth-commits&show_icons=true&theme=dracula&title_color=CDE545&count_private=true&icon_color=CDE545&hide=["issues"])
 
